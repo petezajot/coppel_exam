@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  coppelExam
+
+  Created by MacBook Air on 27/02/23.
+  
+*/
+"ce_user" = "User";
+"ce_pass" = "Password";
+"ce_login_btn" = "Login";
+"ce_login_error" = "Invalid username and/or password. you did not provide a valid login.";
+"ce_tv_Shows" = "TV Shows";
+"ce_popular" = "Popular";
+"ce_top_rated" = "Top Rated";
+"ce_on_tv" = "On TV";
+"ce_airing_today" = "Airing Today";
+"ce_please_wait" = "Please, wait...";
+"ce_favourite_saved" = "Saved to favourites!";
+"ce_favourite_existent" = "Is already in your favourites list!";
+"ce_star" = "⭐️";
+"ce_star_fav" = "🌟";
+"ce_overview_title" = "Overview";
+"ce_genres" = "Genres";
+"ce_prod_companies" = "Production Companies";
+"ce_profile" = "Profile";
+"ce_favs_show" = "Favourites Shows";
+"ce_menu_title" = "What do you want to do?";
+"ce_menu_profile" = "View Profile";
+"ce_menu_log_out" = "Log out";
+"ce_menu_cancel" = "Cancel";
