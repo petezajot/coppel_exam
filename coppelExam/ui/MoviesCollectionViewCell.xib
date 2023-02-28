@@ -44,10 +44,10 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="⭐️8.2" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZDl-b0-qVk">
-                                <rect key="frame" x="152" y="158" width="40" height="16"/>
+                                <rect key="frame" x="110" y="158" width="70" height="16"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="16" id="AOa-i3-PoO"/>
-                                    <constraint firstAttribute="width" constant="40" id="qBU-pz-L1z"/>
+                                    <constraint firstAttribute="width" constant="70" id="qBU-pz-L1z"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="13"/>
                                 <color key="textColor" systemColor="secondarySystemBackgroundColor"/>
@@ -75,7 +75,7 @@
                             <constraint firstItem="5Cg-qJ-JYy" firstAttribute="top" secondItem="wTp-Tk-Zhk" secondAttribute="bottom" constant="8" symbolic="YES" id="RhR-Sc-QbS"/>
                             <constraint firstItem="wTp-Tk-Zhk" firstAttribute="top" secondItem="SGu-wB-cZE" secondAttribute="top" id="Scz-HT-mfR"/>
                             <constraint firstItem="pMq-6a-wTY" firstAttribute="leading" secondItem="SGu-wB-cZE" secondAttribute="leading" constant="8" id="Ted-Ow-SsI"/>
-                            <constraint firstAttribute="trailing" secondItem="ZDl-b0-qVk" secondAttribute="trailing" constant="8" id="TjM-vG-ZNa"/>
+                            <constraint firstAttribute="trailing" secondItem="ZDl-b0-qVk" secondAttribute="trailing" constant="20" id="TjM-vG-ZNa"/>
                             <constraint firstItem="5Cg-qJ-JYy" firstAttribute="leading" secondItem="SGu-wB-cZE" secondAttribute="leading" constant="8" id="WYW-7O-H00"/>
                             <constraint firstAttribute="trailing" secondItem="g0Q-12-1vW" secondAttribute="trailing" constant="8" id="nk9-ai-fmz"/>
                             <constraint firstItem="g0Q-12-1vW" firstAttribute="top" secondItem="pMq-6a-wTY" secondAttribute="bottom" constant="20" id="uBr-mg-wet"/>
